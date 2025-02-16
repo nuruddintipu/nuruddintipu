@@ -10,7 +10,7 @@ I am a self-motivated software developer with a strong foundation in backend dev
 
 - **Programming Languages:** JavaScript, Java, PHP, C
 - **Frontend Development:** React.js, Bootstrap.js
-- **Backend & API Development:** REST APIs, PHP (Native), Express.js (Learning)
+- **Backend & API Development:** REST APIs, PHP
 - **Database Management:** MySQL (SQL Queries, Indexing, Normalization, Transactions)
 - **Version Control:** Git & GitHub
 - **Problem-Solving:** Leetcode (350+ problems solved), Data Structures & Algorithms
