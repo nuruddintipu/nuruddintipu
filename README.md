@@ -15,13 +15,13 @@ I am a self-motivated software developer with a strong foundation in backend dev
 - **Version Control:** Git & GitHub
 - **Problem-Solving:** Leetcode (350+ problems solved), Data Structures & Algorithms
 - **Software Development Principles:** OOP, SOLID Principles, Clean Code
-- **Project Management Tools:** Jira, Trello (Agile Methodologies)
+- **Project Management Tools:** Jira, (Agile Methodologies)
 
 ---
 
 ## 🏆 Certifications & Achievements
 - **Competitive Programming:**
-  - Solved **350+ problems** on [Leetcode](https://leetcode.com/nuruddintipu)
+  - Solved **400+ problems** on [Leetcode](https://leetcode.com/nuruddintipu)
   - **Top 10** in National High School Programming Contest 2016 (Chittagong Regional) - [Certificate](https://drive.google.com/drive/folders/1ClTwcy9o3zLSihCUO1x-pYv0SNeR_DsA?usp=drive_link)
 - **HackerRank Certifications:**
   - Software Engineer - [Certificate](https://www.hackerrank.com/certificates/4cd1100d8a01)
