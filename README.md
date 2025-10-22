@@ -8,12 +8,12 @@ I am a self-motivated software developer with a strong foundation in backend dev
 
 ## 🔧 Technical Skills
 
-- **Programming Languages:** JavaScript, Java, PHP, C
+- **Programming Languages:** JavaScript, PHP, Java, C
 - **Frontend Development:** React.js, Bootstrap.js
-- **Backend & API Development:** REST APIs, PHP
+- **Backend & API Development:**  Laravel, REST APIs, PHP
 - **Database Management:** MySQL (SQL Queries, Indexing, Normalization, Transactions)
 - **Version Control:** Git & GitHub
-- **Problem-Solving:** Leetcode (350+ problems solved), Data Structures & Algorithms
+- **Problem-Solving:** Leetcode (400+ problems solved), Data Structures & Algorithms
 - **Software Development Principles:** OOP, SOLID Principles, Clean Code
 - **Project Management Tools:** Jira, (Agile Methodologies)
 
