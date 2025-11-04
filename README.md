@@ -1,6 +1,6 @@
 # Hi there, I'm Nuruddin Tipu! 👋
 
-### 🚀 Passionate Software Developer | Self-Learner | Problem Solver
+### 🚀 Associate Software Engineer | Self-Learner | Problem Solver
 
 I am a self-motivated software developer with a strong foundation in backend development, data structures, and problem-solving. Coming from a non-CSE background, I have embraced self-learning and hands-on projects to build my technical expertise. My goal is to contribute effectively to the tech industry while continuously enhancing my skills.
 
